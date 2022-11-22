@@ -7,4 +7,4 @@
 5. yarn start # For Prod.
 6. !epvp <page_number> Sample: !epvp 5
 
-<img src="" alt="App Img" />
+<img src="https://github.com/xNoJustice/discord-epvp-bot/blob/4383f4f9f200528f615d83cef33e3de9becfea07/app.gif" alt="App Img" />
